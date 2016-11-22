@@ -1,0 +1,212 @@
+==> /var/log/auth.log <==
+Nov 22 15:14:20 xubuntu sudo: pam_unix(sudo:session): session closed for user root
+Nov 22 15:17:01 xubuntu CRON[7132]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 22 15:17:01 xubuntu CRON[7132]: pam_unix(cron:session): session closed for user root
+Nov 22 15:25:44 xubuntu polkitd(authority=local): Registered Authentication Agent for unix-process:7156:168043 (system bus name :1.74 [/usr/bin/pkttyagent --notify-fd 4 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Nov 22 15:25:44 xubuntu polkitd(authority=local): Unregistered Authentication Agent for unix-process:7156:168043 (system bus name :1.74, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)
+Nov 22 15:49:46 xubuntu sudo:  xubuntu : TTY=pts/6 ; PWD=/home/xubuntu/remoteinstall ; USER=root ; COMMAND=sudoedit /etc/dhcp/dhcpd.conf
+Nov 22 15:49:46 xubuntu sudoedit: pam_unix(sudo:session): session opened for user root by xubuntu(uid=0)
+Nov 22 16:06:00 xubuntu sudoedit: pam_unix(sudo:session): session closed for user root
+Nov 22 16:17:01 xubuntu CRON[7429]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 22 16:17:01 xubuntu CRON[7429]: pam_unix(cron:session): session closed for user root
+Nov 22 16:34:29 xubuntu sudo:  xubuntu : TTY=pts/2 ; PWD=/home/xubuntu/remoteinstall/tftpboot ; USER=root ; COMMAND=sudoedit ubuntu-installer/amd64/boot-screens/syslinux.cfg
+Nov 22 16:34:33 xubuntu sudo:  xubuntu : TTY=pts/2 ; PWD=/home/xubuntu/remoteinstall/tftpboot ; USER=root ; COMMAND=sudoedit ubuntu-installer/amd64/boot-screens/syslinux.cfg
+Nov 22 16:34:58 xubuntu sudo:  xubuntu : TTY=pts/2 ; PWD=/home/xubuntu/remoteinstall/tftpboot ; USER=root ; COMMAND=/bin/nano ubuntu-installer/amd64/boot-screens/syslinux.cfg
+Nov 22 16:34:58 xubuntu sudo: pam_unix(sudo:session): session opened for user root by xubuntu(uid=0)
+Nov 22 16:36:50 xubuntu sudo: pam_unix(sudo:session): session closed for user root
+Nov 22 16:39:31 xubuntu sudo:  xubuntu : TTY=pts/2 ; PWD=/home/xubuntu/remoteinstall/tftpboot ; USER=root ; COMMAND=/bin/nano ubuntu-installer/amd64/preseed.cfg
+Nov 22 16:39:31 xubuntu sudo: pam_unix(sudo:session): session opened for user root by xubuntu(uid=0)
+Nov 22 16:40:27 xubuntu sudo: pam_unix(sudo:session): session closed for user root
+Nov 22 16:41:16 xubuntu sudo:  xubuntu : TTY=pts/2 ; PWD=/home/xubuntu/remoteinstall/tftpboot ; USER=root ; COMMAND=/bin/nano ubuntu-installer/amd64/preseed.cfg
+Nov 22 16:41:16 xubuntu sudo: pam_unix(sudo:session): session opened for user root by xubuntu(uid=0)
+Nov 22 16:45:46 xubuntu sudo: pam_unix(sudo:session): session closed for user root
+Nov 22 17:06:46 xubuntu polkitd(authority=local): Registered Authentication Agent for unix-process:7572:774305 (system bus name :1.104 [/usr/bin/pkttyagent --notify-fd 4 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Nov 22 17:06:46 xubuntu polkitd(authority=local): Unregistered Authentication Agent for unix-process:7572:774305 (system bus name :1.104, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)
+Nov 22 17:07:03 xubuntu polkitd(authority=local): Registered Authentication Agent for unix-process:7610:776013 (system bus name :1.131 [/usr/bin/pkttyagent --notify-fd 4 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Nov 22 17:07:03 xubuntu polkitd(authority=local): Unregistered Authentication Agent for unix-process:7610:776013 (system bus name :1.131, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)
+Nov 22 17:07:08 xubuntu polkitd(authority=local): Registered Authentication Agent for unix-process:7644:776449 (system bus name :1.157 [/usr/bin/pkttyagent --notify-fd 4 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Nov 22 17:07:08 xubuntu polkitd(authority=local): Unregistered Authentication Agent for unix-process:7644:776449 (system bus name :1.157, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)
+Nov 22 17:08:17 xubuntu sudo:  xubuntu : TTY=pts/2 ; PWD=/home/xubuntu/remoteinstall/tftpboot ; USER=root ; COMMAND=/bin/nano ubuntu-installer/amd64/boot-screens/syslinux.cfg
+Nov 22 17:08:17 xubuntu sudo: pam_unix(sudo:session): session opened for user root by xubuntu(uid=0)
+Nov 22 17:10:29 xubuntu sudo: pam_unix(sudo:session): session closed for user root
+Nov 22 17:10:36 xubuntu polkitd(authority=local): Registered Authentication Agent for unix-process:7703:797326 (system bus name :1.183 [/usr/bin/pkttyagent --notify-fd 4 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Nov 22 17:10:36 xubuntu polkitd(authority=local): Unregistered Authentication Agent for unix-process:7703:797326 (system bus name :1.183, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)
+Nov 22 17:10:44 xubuntu sudo:  xubuntu : TTY=pts/2 ; PWD=/home/xubuntu/remoteinstall/tftpboot ; USER=root ; COMMAND=/usr/sbin/service xinetd start
+Nov 22 17:10:44 xubuntu sudo: pam_unix(sudo:session): session opened for user root by xubuntu(uid=0)
+Nov 22 17:10:44 xubuntu sudo: pam_unix(sudo:session): session closed for user root
+Nov 22 17:17:01 xubuntu CRON[7797]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 22 17:17:01 xubuntu CRON[7797]: pam_unix(cron:session): session closed for user root
+Nov 22 17:21:50 xubuntu sudo:  xubuntu : TTY=pts/6 ; PWD=/home/xubuntu/remoteinstall/tftpboot ; USER=root ; COMMAND=/usr/sbin/service tftp-hpa status
+Nov 22 17:21:50 xubuntu sudo: pam_unix(sudo:session): session opened for user root by xubuntu(uid=0)
+Nov 22 17:21:50 xubuntu sudo: pam_unix(sudo:session): session closed for user root
+Nov 22 17:22:12 xubuntu sudo:  xubuntu : TTY=pts/6 ; PWD=/home/xubuntu/remoteinstall/tftpboot ; USER=root ; COMMAND=/usr/bin/apt-get install tftp-hpa tftpd-hpa
+Nov 22 17:22:12 xubuntu sudo: pam_unix(sudo:session): session opened for user root by xubuntu(uid=0)
+Nov 22 17:22:13 xubuntu sudo: pam_unix(sudo:session): session closed for user root
+Nov 22 17:22:27 xubuntu sudo:  xubuntu : TTY=pts/6 ; PWD=/home/xubuntu/remoteinstall/tftpboot ; USER=root ; COMMAND=/usr/sbin/service tftpd-hpa status
+Nov 22 17:22:27 xubuntu sudo: pam_unix(sudo:session): session opened for user root by xubuntu(uid=0)
+Nov 22 17:22:27 xubuntu sudo: pam_unix(sudo:session): session closed for user root
+Nov 22 17:27:17 xubuntu sudo:  xubuntu : TTY=pts/2 ; PWD=/home/xubuntu/remoteinstall/tftpboot ; USER=root ; COMMAND=/bin/nano ubuntu-installer/amd64/boot-screens/syslinux.cfg
+Nov 22 17:27:17 xubuntu sudo: pam_unix(sudo:session): session opened for user root by xubuntu(uid=0)
+Nov 22 17:28:29 xubuntu sudo: pam_unix(sudo:session): session closed for user root
+Nov 22 17:30:43 xubuntu sudo:  xubuntu : TTY=pts/2 ; PWD=/home/xubuntu/remoteinstall/tftpboot ; USER=root ; COMMAND=sudoedit /etc/dhcp/dhcpd.conf
+Nov 22 17:30:43 xubuntu sudoedit: pam_unix(sudo:session): session opened for user root by xubuntu(uid=0)
+Nov 22 17:32:33 xubuntu sudoedit: pam_unix(sudo:session): session closed for user root
+Nov 22 17:32:42 xubuntu sudo:  xubuntu : TTY=pts/2 ; PWD=/home/xubuntu/remoteinstall/tftpboot ; USER=root ; COMMAND=/usr/sbin/service isc-dhcp-server restart
+Nov 22 17:32:42 xubuntu sudo: pam_unix(sudo:session): session opened for user root by xubuntu(uid=0)
+Nov 22 17:32:42 xubuntu sudo: pam_unix(sudo:session): session closed for user root
+Nov 22 17:32:46 xubuntu sudo:  xubuntu : TTY=pts/2 ; PWD=/home/xubuntu/remoteinstall/tftpboot ; USER=root ; COMMAND=/usr/sbin/service isc-dhcp-server status
+Nov 22 17:32:46 xubuntu sudo: pam_unix(sudo:session): session opened for user root by xubuntu(uid=0)
+Nov 22 17:32:49 xubuntu sudo: pam_unix(sudo:session): session closed for user root
+Nov 22 17:34:41 xubuntu sudo:  xubuntu : TTY=pts/2 ; PWD=/home/xubuntu/remoteinstall/tftpboot ; USER=root ; COMMAND=sudoedit /etc/dhcp/dhcpd.conf
+Nov 22 17:34:41 xubuntu sudoedit: pam_unix(sudo:session): session opened for user root by xubuntu(uid=0)
+Nov 22 17:38:49 xubuntu sudoedit: pam_unix(sudo:session): session closed for user root
+Nov 22 17:55:32 xubuntu sudo:  xubuntu : TTY=pts/2 ; PWD=/home/xubuntu/remoteinstall/tftpboot ; USER=root ; COMMAND=/bin/nano ubuntu-installer/amd64/boot-screens/syslinux.cfg
+Nov 22 17:55:32 xubuntu sudo: pam_unix(sudo:session): session opened for user root by xubuntu(uid=0)
+Nov 22 17:56:43 xubuntu sudo: pam_unix(sudo:session): session closed for user root
+Nov 22 18:03:56 xubuntu sudo:  xubuntu : TTY=pts/2 ; PWD=/home/xubuntu/remoteinstall/tftpboot ; USER=root ; COMMAND=sudoedit /etc/dhcp/dhcpd.conf
+Nov 22 18:03:56 xubuntu sudoedit: pam_unix(sudo:session): session opened for user root by xubuntu(uid=0)
+Nov 22 18:09:10 xubuntu sudoedit: pam_unix(sudo:session): session closed for user root
+Nov 22 18:11:05 xubuntu sudo:  xubuntu : TTY=pts/2 ; PWD=/home/xubuntu/remoteinstall/tftpboot ; USER=root ; COMMAND=/bin/cp ubuntu-installer/amd64/boot-screens/syslinux.cfg /var/lib/tftpboot/ubuntu-installer/amd64/boot-screens/
+Nov 22 18:11:05 xubuntu sudo: pam_unix(sudo:session): session opened for user root by xubuntu(uid=0)
+Nov 22 18:11:05 xubuntu sudo: pam_unix(sudo:session): session closed for user root
+Nov 22 18:13:12 xubuntu sudo:  xubuntu : TTY=pts/2 ; PWD=/home/xubuntu/remoteinstall/tftpboot ; USER=root ; COMMAND=sudoedit /etc/dhcp/dhcpd.conf
+Nov 22 18:13:12 xubuntu sudoedit: pam_unix(sudo:session): session opened for user root by xubuntu(uid=0)
+Nov 22 18:13:14 xubuntu sudoedit: pam_unix(sudo:session): session closed for user root
+Nov 22 18:13:25 xubuntu sudo:  xubuntu : TTY=pts/2 ; PWD=/home/xubuntu/remoteinstall/tftpboot ; USER=root ; COMMAND=/bin/nano ubuntu-installer/amd64/boot-screens/syslinux.cfg
+Nov 22 18:13:25 xubuntu sudo: pam_unix(sudo:session): session opened for user root by xubuntu(uid=0)
+Nov 22 18:13:34 xubuntu sudo: pam_unix(sudo:session): session closed for user root
+Nov 22 18:16:20 xubuntu sudo:  xubuntu : TTY=pts/2 ; PWD=/home/xubuntu/remoteinstall/tftpboot ; USER=root ; COMMAND=/bin/cp ubuntu-installer/amd64/boot-screens/preseed.cfg /var/lib/tftpboot/ubuntu-installer/amd64/
+Nov 22 18:16:20 xubuntu sudo: pam_unix(sudo:session): session opened for user root by xubuntu(uid=0)
+Nov 22 18:16:20 xubuntu sudo: pam_unix(sudo:session): session closed for user root
+Nov 22 18:17:01 xubuntu CRON[8198]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 22 18:17:01 xubuntu CRON[8198]: pam_unix(cron:session): session closed for user root
+Nov 22 18:33:01 xubuntu CRON[8277]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 22 18:33:01 xubuntu CRON[8277]: pam_unix(cron:session): session closed for user root
+Nov 22 19:06:37 xubuntu sudo:  xubuntu : TTY=pts/2 ; PWD=/home/xubuntu/remoteinstall ; USER=root ; COMMAND=/usr/bin/tail --lines=100 /home/*/.bash_history /var/log/auth.log /var/log/apache2/*.log /var/log/syslog /etc/lsb-release
+Nov 22 19:06:37 xubuntu sudo: pam_unix(sudo:session): session opened for user root by xubuntu(uid=0)
+Nov 22 19:06:37 xubuntu sudo: pam_unix(sudo:session): session closed for user root
+Nov 22 19:06:47 xubuntu sudo:  xubuntu : TTY=pts/2 ; PWD=/home/xubuntu/remoteinstall ; USER=root ; COMMAND=/usr/bin/tail --lines=100 /home/*/.bash_history /var/log/auth.log /var/log/apache2/*.log /var/log/syslog /etc/lsb-release
+Nov 22 19:06:47 xubuntu sudo: pam_unix(sudo:session): session opened for user root by xubuntu(uid=0)
+Nov 22 19:06:47 xubuntu sudo: pam_unix(sudo:session): session closed for user root
+Nov 22 19:07:08 xubuntu sudo:  xubuntu : TTY=pts/2 ; PWD=/home/xubuntu/remoteinstall ; USER=root ; COMMAND=/usr/bin/tail --lines=100 /home/xubuntu/.bash_history /var/log/auth.log /var/log/apache2/*.log /var/log/syslog /etc/lsb-release
+Nov 22 19:07:08 xubuntu sudo: pam_unix(sudo:session): session opened for user root by xubuntu(uid=0)
+Nov 22 19:07:08 xubuntu sudo: pam_unix(sudo:session): session closed for user root
+Nov 22 19:08:27 xubuntu sudo:  xubuntu : TTY=pts/2 ; PWD=/home/xubuntu/remoteinstall ; USER=root ; COMMAND=/usr/bin/tail --lines=100 /home/xubuntu/.bash_history /var/log/auth.log /var/log/apache2/*.log /var/log/syslog /etc/lsb-release
+Nov 22 19:08:27 xubuntu sudo: pam_unix(sudo:session): session opened for user root by xubuntu(uid=0)
+Nov 22 19:08:27 xubuntu sudo: pam_unix(sudo:session): session closed for user root
+Nov 22 19:13:36 xubuntu sudo:  xubuntu : TTY=pts/2 ; PWD=/home/xubuntu/remoteinstall ; USER=root ; COMMAND=/usr/bin/tail --lines=100 /home/xubuntu/.bash_history /var/log/syslog /etc/lsb-release
+Nov 22 19:13:36 xubuntu sudo: pam_unix(sudo:session): session opened for user root by xubuntu(uid=0)
+Nov 22 19:13:36 xubuntu sudo: pam_unix(sudo:session): session closed for user root
+Nov 22 19:16:59 xubuntu sudo:  xubuntu : TTY=pts/2 ; PWD=/home/xubuntu/remoteinstall ; USER=root ; COMMAND=/usr/bin/tail --lines=100 /home/*/.bash_history /var/log/auth.log /var/log/apache2/*.log /var/log/syslog /etc/lsb-release
+Nov 22 19:16:59 xubuntu sudo: pam_unix(sudo:session): session opened for user root by xubuntu(uid=0)
+
+
+==> /var/log/syslog <==
+Nov 22 18:05:44 xubuntu dhcpd[7886]: DHCPDISCOVER from 78:ac:c0:c1:0a:83 via eno1: network 172.28.0.0/16: no free leases
+Nov 22 18:05:44 xubuntu dhcpd[7886]: DHCPREQUEST for 172.28.1.25 (172.28.171.192) from 78:ac:c0:c1:0a:83 via eno1: unknown lease 172.28.1.25.
+Nov 22 18:05:53 xubuntu puppet-agent[6147]: Could not request certificate: Failed to open TCP connection to puppet:8140 (getaddrinfo: Name or service not known)
+Nov 22 18:07:53 xubuntu puppet-agent[6147]: Could not request certificate: Failed to open TCP connection to puppet:8140 (getaddrinfo: Name or service not known)
+Nov 22 18:08:18 xubuntu dhcpd[7886]: DHCPINFORM from 172.28.172.107 via eno1
+Nov 22 18:08:18 xubuntu dhcpd[7886]: DHCPACK to 172.28.172.107 (78:ac:c0:ba:75:e4) via eno1
+Nov 22 18:09:53 xubuntu puppet-agent[6147]: Could not request certificate: Failed to open TCP connection to puppet:8140 (getaddrinfo: Name or service not known)
+Nov 22 18:10:36 xubuntu dhcpd[7886]: DHCPREQUEST for 172.28.172.97 from 34:e2:fd:be:10:2f via eno1: unknown lease 172.28.172.97.
+Nov 22 18:11:16 xubuntu dhcpd[7886]: DHCPDISCOVER from 78:ac:c0:c1:0a:83 via eno1: network 172.28.0.0/16: no free leases
+Nov 22 18:11:18 xubuntu dhcpd[7886]: DHCPREQUEST for 172.28.1.25 (172.28.171.192) from 78:ac:c0:c1:0a:83 via eno1: unknown lease 172.28.1.25.
+Nov 22 18:11:44 xubuntu dhcpd[7886]: DHCPDISCOVER from 78:ac:c0:c1:0a:83 via eno1: network 172.28.0.0/16: no free leases
+Nov 22 18:11:44 xubuntu dhcpd[7886]: DHCPREQUEST for 172.28.171.213 (172.28.170.201) from 78:ac:c0:c1:0a:83 via eno1: unknown lease 172.28.171.213.
+Nov 22 18:11:53 xubuntu puppet-agent[6147]: Could not request certificate: Failed to open TCP connection to puppet:8140 (getaddrinfo: Name or service not known)
+Nov 22 18:13:53 xubuntu puppet-agent[6147]: Could not request certificate: Failed to open TCP connection to puppet:8140 (getaddrinfo: Name or service not known)
+Nov 22 18:15:53 xubuntu puppet-agent[6147]: Could not request certificate: Failed to open TCP connection to puppet:8140 (getaddrinfo: Name or service not known)
+Nov 22 18:16:04 xubuntu dhcpd[7886]: DHCPDISCOVER from 78:ac:c0:c1:0a:83 via eno1: network 172.28.0.0/16: no free leases
+Nov 22 18:16:06 xubuntu dhcpd[7886]: DHCPREQUEST for 172.28.1.25 (172.28.171.192) from 78:ac:c0:c1:0a:83 via eno1: unknown lease 172.28.1.25.
+Nov 22 18:16:32 xubuntu dhcpd[7886]: DHCPDISCOVER from 78:ac:c0:c1:0a:83 via eno1: network 172.28.0.0/16: no free leases
+Nov 22 18:16:32 xubuntu dhcpd[7886]: DHCPREQUEST for 172.28.1.25 (172.28.171.192) from 78:ac:c0:c1:0a:83 via eno1: unknown lease 172.28.1.25.
+Nov 22 18:17:01 xubuntu CRON[8199]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Nov 22 18:17:53 xubuntu puppet-agent[6147]: Could not request certificate: Failed to open TCP connection to puppet:8140 (getaddrinfo: Name or service not known)
+Nov 22 18:18:51 xubuntu dhcpd[7886]: DHCPDISCOVER from 78:ac:c0:ba:7d:2f via eno1
+Nov 22 18:18:51 xubuntu dhcpd[7886]: DHCPOFFER on 172.28.1.2 to 78:ac:c0:ba:7d:2f via eno1
+Nov 22 18:18:53 xubuntu dhcpd[7886]: DHCPREQUEST for 172.28.1.2 (172.28.172.219) from 78:ac:c0:ba:7d:2f via eno1
+Nov 22 18:18:53 xubuntu dhcpd[7886]: DHCPACK on 172.28.1.2 to 78:ac:c0:ba:7d:2f via eno1
+Nov 22 18:18:53 xubuntu in.tftpd[8230]: tftp: client does not accept options
+Nov 22 18:19:17 xubuntu dhcpd[7886]: DHCPDISCOVER from 78:ac:c0:ba:7d:2f via eno1
+Nov 22 18:19:17 xubuntu dhcpd[7886]: DHCPOFFER on 172.28.1.2 to 78:ac:c0:ba:7d:2f via eno1
+Nov 22 18:19:17 xubuntu dhcpd[7886]: DHCPREQUEST for 172.28.171.169 (172.28.170.201) from 78:ac:c0:ba:7d:2f via eno1: lease 172.28.171.169 unavailable.
+Nov 22 18:19:17 xubuntu dhcpd[7886]: DHCPNAK on 172.28.171.169 to 78:ac:c0:ba:7d:2f via eno1
+Nov 22 18:19:53 xubuntu puppet-agent[6147]: Could not request certificate: Failed to open TCP connection to puppet:8140 (getaddrinfo: Name or service not known)
+Nov 22 18:21:12 xubuntu dhcpd[7886]: DHCPREQUEST for 172.28.171.2 from 2c:27:d7:19:01:83 via eno1: unknown lease 172.28.171.2.
+Nov 22 18:21:17 xubuntu dhcpd[7886]: DHCPINFORM from 172.28.171.2 via eno1
+Nov 22 18:21:17 xubuntu dhcpd[7886]: DHCPACK to 172.28.171.2 (2c:27:d7:19:01:83) via eno1
+Nov 22 18:21:53 xubuntu puppet-agent[6147]: Could not request certificate: Failed to open TCP connection to puppet:8140 (getaddrinfo: Name or service not known)
+Nov 22 18:22:31 xubuntu dhcpd[7886]: DHCPREQUEST for 172.28.171.134 from 78:ac:c0:c1:1b:61 via eno1: unknown lease 172.28.171.134.
+Nov 22 18:22:35 xubuntu dhcpd[7886]: DHCPINFORM from 172.28.171.134 via eno1
+Nov 22 18:22:35 xubuntu dhcpd[7886]: DHCPACK to 172.28.171.134 (78:ac:c0:c1:1b:61) via eno1
+Nov 22 18:23:53 xubuntu puppet-agent[6147]: Could not request certificate: Failed to open TCP connection to puppet:8140 (getaddrinfo: Name or service not known)
+Nov 22 18:27:53 xubuntu puppet-agent[6147]: message repeated 2 times: [ Could not request certificate: Failed to open TCP connection to puppet:8140 (getaddrinfo: Name or service not known)]
+Nov 22 18:29:20 xubuntu dhcpd[7886]: DHCPREQUEST for 172.28.172.71 from 2c:27:d7:19:01:43 via eno1: unknown lease 172.28.172.71.
+Nov 22 18:29:24 xubuntu dhcpd[7886]: DHCPINFORM from 172.28.172.71 via eno1
+Nov 22 18:29:24 xubuntu dhcpd[7886]: DHCPACK to 172.28.172.71 (2c:27:d7:19:01:43) via eno1
+Nov 22 18:29:53 xubuntu puppet-agent[6147]: Could not request certificate: Failed to open TCP connection to puppet:8140 (getaddrinfo: Name or service not known)
+Nov 22 18:31:53 xubuntu puppet-agent[6147]: Could not request certificate: Failed to open TCP connection to puppet:8140 (getaddrinfo: Name or service not known)
+Nov 22 18:33:01 xubuntu CRON[8278]: (root) CMD (   test -x /etc/cron.daily/popularity-contest && /etc/cron.daily/popularity-contest --crond)
+Nov 22 18:33:53 xubuntu puppet-agent[6147]: Could not request certificate: Failed to open TCP connection to puppet:8140 (getaddrinfo: Name or service not known)
+Nov 22 18:35:53 xubuntu puppet-agent[6147]: Could not request certificate: Failed to open TCP connection to puppet:8140 (getaddrinfo: Name or service not known)
+Nov 22 18:35:59 xubuntu dhcpd[7886]: DHCPDISCOVER from 78:ac:c0:ba:7d:2f via eno1
+Nov 22 18:35:59 xubuntu dhcpd[7886]: DHCPOFFER on 172.28.1.2 to 78:ac:c0:ba:7d:2f via eno1
+Nov 22 18:35:59 xubuntu dhcpd[7886]: DHCPREQUEST for 172.28.1.2 (172.28.172.219) from 78:ac:c0:ba:7d:2f via eno1
+Nov 22 18:35:59 xubuntu dhcpd[7886]: DHCPACK on 172.28.1.2 to 78:ac:c0:ba:7d:2f via eno1
+Nov 22 18:37:18 xubuntu dhcpd[7886]: DHCPRELEASE of 172.28.1.2 from 78:ac:c0:ba:7d:2f via eno1 (not found)
+Nov 22 18:37:53 xubuntu puppet-agent[6147]: Could not request certificate: Failed to open TCP connection to puppet:8140 (getaddrinfo: Name or service not known)
+Nov 22 18:38:14 xubuntu dhcpd[7886]: DHCPDISCOVER from 78:ac:c0:ba:7d:2f via eno1
+Nov 22 18:38:14 xubuntu dhcpd[7886]: DHCPOFFER on 172.28.1.2 to 78:ac:c0:ba:7d:2f via eno1
+Nov 22 18:38:16 xubuntu dhcpd[7886]: DHCPREQUEST for 172.28.1.2 (172.28.172.219) from 78:ac:c0:ba:7d:2f via eno1
+Nov 22 18:38:16 xubuntu dhcpd[7886]: DHCPACK on 172.28.1.2 to 78:ac:c0:ba:7d:2f via eno1
+Nov 22 18:38:16 xubuntu in.tftpd[8290]: tftp: client does not accept options
+Nov 22 18:38:39 xubuntu dhcpd[7886]: DHCPDISCOVER from 78:ac:c0:ba:7d:2f via eno1
+Nov 22 18:38:39 xubuntu dhcpd[7886]: DHCPOFFER on 172.28.1.2 to 78:ac:c0:ba:7d:2f via eno1
+Nov 22 18:38:39 xubuntu dhcpd[7886]: DHCPREQUEST for 172.28.171.169 (172.28.170.201) from 78:ac:c0:ba:7d:2f via eno1: lease 172.28.171.169 unavailable.
+Nov 22 18:38:39 xubuntu dhcpd[7886]: DHCPNAK on 172.28.171.169 to 78:ac:c0:ba:7d:2f via eno1
+Nov 22 18:39:53 xubuntu puppet-agent[6147]: Could not request certificate: Failed to open TCP connection to puppet:8140 (getaddrinfo: Name or service not known)
+Nov 22 18:40:47 xubuntu dhcpd[7886]: DHCPREQUEST for 172.28.172.97 from 34:e2:fd:be:10:2f via eno1: unknown lease 172.28.172.97.
+Nov 22 18:41:53 xubuntu puppet-agent[6147]: Could not request certificate: Failed to open TCP connection to puppet:8140 (getaddrinfo: Name or service not known)
+Nov 22 18:47:53 xubuntu puppet-agent[6147]: message repeated 3 times: [ Could not request certificate: Failed to open TCP connection to puppet:8140 (getaddrinfo: Name or service not known)]
+Nov 22 18:50:03 xubuntu puppet-agent[6147]: Could not request certificate: Failed to open TCP connection to puppet:8140 (getaddrinfo: Temporary failure in name resolution)
+Nov 22 18:52:13 xubuntu puppet-agent[6147]: Could not request certificate: Failed to open TCP connection to puppet:8140 (getaddrinfo: Temporary failure in name resolution)
+Nov 22 18:53:47 xubuntu dhcpd[7886]: DHCPDISCOVER from 78:ac:c0:ba:7d:2f via eno1
+Nov 22 18:53:47 xubuntu dhcpd[7886]: DHCPOFFER on 172.28.1.2 to 78:ac:c0:ba:7d:2f via eno1
+Nov 22 18:53:47 xubuntu dhcpd[7886]: DHCPREQUEST for 172.28.1.2 (172.28.172.219) from 78:ac:c0:ba:7d:2f via eno1
+Nov 22 18:53:47 xubuntu dhcpd[7886]: DHCPACK on 172.28.1.2 to 78:ac:c0:ba:7d:2f via eno1
+Nov 22 18:54:23 xubuntu puppet-agent[6147]: Could not request certificate: Failed to open TCP connection to puppet:8140 (getaddrinfo: Temporary failure in name resolution)
+Nov 22 18:56:33 xubuntu puppet-agent[6147]: Could not request certificate: Failed to open TCP connection to puppet:8140 (getaddrinfo: Temporary failure in name resolution)
+Nov 22 18:57:58 xubuntu dhcpd[7886]: DHCPREQUEST for 172.28.1.2 from 78:ac:c0:ba:7d:2f via eno1
+Nov 22 18:57:58 xubuntu dhcpd[7886]: DHCPACK on 172.28.1.2 to 78:ac:c0:ba:7d:2f via eno1
+Nov 22 18:58:43 xubuntu puppet-agent[6147]: Could not request certificate: Failed to open TCP connection to puppet:8140 (getaddrinfo: Temporary failure in name resolution)
+Nov 22 19:00:43 xubuntu puppet-agent[6147]: Could not request certificate: Failed to open TCP connection to puppet:8140 (getaddrinfo: Name or service not known)
+Nov 22 19:00:48 xubuntu dhcpd[7886]: DHCPRELEASE of 172.28.1.2 from 78:ac:c0:ba:7d:2f via eno1 (not found)
+Nov 22 19:01:42 xubuntu dhcpd[7886]: DHCPDISCOVER from 78:ac:c0:ba:7d:2f via eno1
+Nov 22 19:01:42 xubuntu dhcpd[7886]: DHCPOFFER on 172.28.1.2 to 78:ac:c0:ba:7d:2f via eno1
+Nov 22 19:01:42 xubuntu dhcpd[7886]: DHCPREQUEST for 172.28.1.2 (172.28.172.219) from 78:ac:c0:ba:7d:2f via eno1
+Nov 22 19:01:42 xubuntu dhcpd[7886]: DHCPACK on 172.28.1.2 to 78:ac:c0:ba:7d:2f via eno1
+Nov 22 19:02:43 xubuntu puppet-agent[6147]: Could not request certificate: Failed to open TCP connection to puppet:8140 (getaddrinfo: Name or service not known)
+Nov 22 19:04:00 xubuntu dhcpd[7886]: DHCPRELEASE of 172.28.1.2 from 78:ac:c0:ba:7d:2f via eno1 (not found)
+Nov 22 19:04:43 xubuntu puppet-agent[6147]: Could not request certificate: Failed to open TCP connection to puppet:8140 (getaddrinfo: Name or service not known)
+Nov 22 19:04:44 xubuntu dhcpd[7886]: DHCPDISCOVER from 78:ac:c0:ba:7d:2f via eno1
+Nov 22 19:04:44 xubuntu dhcpd[7886]: DHCPOFFER on 172.28.1.2 to 78:ac:c0:ba:7d:2f via eno1
+Nov 22 19:04:44 xubuntu dhcpd[7886]: DHCPREQUEST for 172.28.1.2 (172.28.172.219) from 78:ac:c0:ba:7d:2f via eno1
+Nov 22 19:04:44 xubuntu dhcpd[7886]: DHCPACK on 172.28.1.2 to 78:ac:c0:ba:7d:2f via eno1
+Nov 22 19:05:02 xubuntu dhcpd[7886]: DHCPRELEASE of 172.28.1.2 from 78:ac:c0:ba:7d:2f via eno1 (not found)
+Nov 22 19:06:43 xubuntu puppet-agent[6147]: Could not request certificate: Failed to open TCP connection to puppet:8140 (getaddrinfo: Name or service not known)
+Nov 22 19:08:43 xubuntu puppet-agent[6147]: Could not request certificate: Failed to open TCP connection to puppet:8140 (getaddrinfo: Name or service not known)
+Nov 22 19:10:42 xubuntu dhcpd[7886]: DHCPREQUEST for 172.28.172.143 from 78:ac:c0:ba:77:ac via eno1: unknown lease 172.28.172.143.
+Nov 22 19:10:43 xubuntu puppet-agent[6147]: Could not request certificate: Failed to open TCP connection to puppet:8140 (getaddrinfo: Name or service not known)
+Nov 22 19:10:47 xubuntu dhcpd[7886]: DHCPREQUEST for 172.28.172.107 from 78:ac:c0:ba:75:e4 via eno1: unknown lease 172.28.172.107.
+Nov 22 19:12:43 xubuntu puppet-agent[6147]: Could not request certificate: Failed to open TCP connection to puppet:8140 (getaddrinfo: Name or service not known)
+Nov 22 19:14:43 xubuntu puppet-agent[6147]: Could not request certificate: Failed to open TCP connection to puppet:8140 (getaddrinfo: Name or service not known)
+Nov 22 19:16:43 xubuntu puppet-agent[6147]: Could not request certificate: Failed to open TCP connection to puppet:8140 (getaddrinfo: Name or service not known)
+
+
+==> /etc/lsb-release <==
+DISTRIB_ID=Ubuntu
+DISTRIB_RELEASE=16.04
+DISTRIB_CODENAME=xenial
+DISTRIB_DESCRIPTION="Ubuntu 16.04 LTS"
+
